@@ -1,0 +1,6 @@
+{
+  "name": "VIDEO EDITOR ESPECTRO",
+  "description": "Um aplicativo para criar e personalizar vídeos musicais com espectros de áudio, logotipos e texto. Escolha um formato, carregue seus arquivos, organize-os na tela e exporte sua criação.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
